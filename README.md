@@ -1,4 +1,4 @@
 BasicKnowledge
 ==============
 
-Javascript code
+Javascript code！
