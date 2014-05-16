@@ -3,5 +3,4 @@ BasicKnowledge
 
 Javascript code！
 
-
-add in master
+add in dev
